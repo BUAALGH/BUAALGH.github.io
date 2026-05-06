@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Guanghui Li's Homepage"
-excerpt: "Ph.D. Student at Beihang University | MPI & Medical Image Reconstruction"
+excerpt: "Ph.D. Student at Beihang University \\ Magnetic Particle Imaging, Medical Image Reconstruction"
 author_profile: true
 redirect_from: 
   - /about/
@@ -54,5 +54,5 @@ Total <a href='https://scholar.google.com/citations?user=BWo24AoAAAAJ'>Google Sc
 
 # 📫 Contact
 - Email: liguanghui@buaa.edu.cn
-- Google Scholar: https://scholar.google.com/citations?user=你的谷歌学术ID
-- GitHub: https://github.com/liguanghui
+- Google Scholar: https://scholar.google.com/citations?user=BWo24AoAAAAJ
+- GitHub: https://github.com/BUAALGH
